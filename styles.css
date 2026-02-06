@@ -960,7 +960,7 @@ ul {
 
     /* Compact Hero */
     .hero {
-        padding: 80px 16px 40px !important;
+        padding: 120px 16px 40px !important;
         min-height: auto;
     }
 
@@ -1211,7 +1211,7 @@ ul {
 
 @media (max-width: 480px) {
     .hero {
-        padding: 70px 12px 30px !important;
+        padding: 110px 12px 30px !important;
     }
 
     .hero-title {
