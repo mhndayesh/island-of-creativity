@@ -1,0 +1,34 @@
+# Robots.txt for جزيرة الإبداع (Island of Creativity)
+# https://jazeraalibdaa.com
+
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://jazeraalibdaa.com/sitemap.xml
+
+# Crawl delay (optional - be gentle with bots)
+Crawl-delay: 1
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+
+# Bing specific
+User-agent: Bingbot
+Allow: /
+
+# Yandex (popular in some regions)
+User-agent: Yandex
+Allow: /
+
+# Block common spam bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
